@@ -21,7 +21,7 @@ PIN NUM | UNIT
 1       | Fahrenheit
 2       | Kelvin
 
-After that, you'll see either a tick or an X showing out on the screen. Their meaning are as shown below:
+After that, you'll see either a tick or an X showing out on the screen. The symbols will be followed by their corresponding custom sound effect. Their meaning are as shown below:
 
 SYMBOL | MEANING
 ------ | ----------
